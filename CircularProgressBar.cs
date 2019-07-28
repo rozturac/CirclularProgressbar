@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Windows.Forms;
 
-namespace RSoft.Componenets.CusomComponents
+namespace RSoft.Componenets.WinForm
 {
     [ToolboxItem(true)]
     public class CircularProgressBar : Label
